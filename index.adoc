@@ -1,0 +1,10 @@
+= Руководство по Hibernate. Виды связей.
+:source-highlighter: prettify
+:sectnums:
+:toc: left
+:toclevels: 2
+
+:toc!:
+
+include::dir/page1.adoc[leveloffset=1]
+include::dir/page2.adoc[leveloffset=1]
